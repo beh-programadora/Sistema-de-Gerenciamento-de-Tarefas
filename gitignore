@@ -1,0 +1,38 @@
+
+### .gitignore
+```plaintext
+# Ignorar arquivos e pastas específicas
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar arquivos de ambiente virtual
+env/
+venv/
+
+# Ignorar arquivos de configuração específicos de IDEs
+.idea/
+.vscode/
+Enunciado do Projeto
+Título: Gerenciador de Tarefas Simples em Python
+
+Objetivo:
+Desenvolver um gerenciador de tarefas simples que permita ao usuário adicionar tarefas com uma descrição, listar todas as tarefas com seus status (pendente ou concluída) e marcar tarefas como concluídas.
+
+Requisitos:
+
+O gerenciador deve ser implementado em Python.
+O usuário deve poder adicionar tarefas com uma descrição.
+O usuário deve poder listar todas as tarefas e ver seu status.
+O usuário deve poder marcar tarefas como concluídas.
+Entregáveis:
+
+Código-fonte do gerenciador de tarefas (gerenciador_de_tarefas.py).
+Arquivo README.md explicando como executar o gerenciador de tarefas e exemplos de uso.
+Arquivo .gitignore para ignorar arquivos desnecessários no repositório.
+Critérios de Avaliação:
+
+Funcionamento correto do gerenciador de tarefas.
+Clareza e organização do código.
+Qualidade da documentação no README.md.
